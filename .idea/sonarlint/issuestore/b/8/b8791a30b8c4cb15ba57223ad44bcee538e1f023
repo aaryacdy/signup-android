@@ -1,0 +1,23 @@
+
+E
+java:S16041"(Make this anonymous inner class a lambda(´¿¤ö8™ÎËØò0
+E
+java:S1604I"(Make this anonymous inner class a lambda(‰¬šÕ8¨ÀÈØò0
+o	java:S116!"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÚšĞşÿÿÿÿ8¸ÀÈØò0
+b
+java:S1854N"@Remove this useless assignment to local variable "mobileNumber".(ªÒé¯úÿÿÿÿ8ÀÀÈØò0
+]
+java:S1854M";Remove this useless assignment to local variable "address".(´á ııÿÿÿÿ8ÀÀÈØò0
+^
+java:S1854L"<Remove this useless assignment to local variable "fullName".(äË©†şÿÿÿÿ8ÀÀÈØò0
+O
+java:S1481L"-Remove this unused "fullName" local variable.(äË©†şÿÿÿÿ8ÀÀÈØò0
+N
+java:S1481M",Remove this unused "address" local variable.(´á ııÿÿÿÿ8ÁÀÈØò0
+S
+java:S1481N"1Remove this unused "mobileNumber" local variable.(ªÒé¯úÿÿÿÿ8ÂÀÈØò0
+]	java:S125T"<This block of commented-out lines of code should be removed.(–ú´ßûÿÿÿÿ8‹öÓÙò0
+]	java:S125X"<This block of commented-out lines of code should be removed.(ğ€è„ÿÿÿÿÿ8üÕØò0
+W	java:S125Z"<This block of commented-out lines of code should be removed.(Œ÷‡8ÂÀÈØò0
+T
+java:S1068#"7Remove this unused "selectedGenderValue" private field.(àÇ‚ª8ªûÅó0

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SignupForm</string>
+    <string name="signup">Signup</string>
+    <string name="fullName">Full Name *</string>
+    <string name="address">Address *</string>
+    <string name="mobileNumber">Mobile Number *</string>
+    <string name="gender">Gender *</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Others</string>
+    <string name="country">Country *</string>
+    <string name="termsAndCondition">Terms and Conditions</string>
+
+    <string-array name="countries">
+        <item>Nepal</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>China</item>
+    </string-array>
+
+
+</resources>
